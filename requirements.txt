@@ -1,0 +1,5 @@
+pytest                   # Pytest is a testing framework which allows us to write test codes using python
+Faker                    # Faker is a Python package that generates fake data for you
+pytest-bdd               # BDD library for the pytest runner
+allure-pytest            # Allure Framework is a flexible lightweight multi-language test report
+selenium                 # Selenium is a portable framework for testing web/mobile applications
